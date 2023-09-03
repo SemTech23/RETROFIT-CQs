@@ -27,7 +27,7 @@ def remove_duplicates_fuzzy(input_file, output_file, column_name, threshold=80):
 
     df_filtered = df[df[column_name].isin(unique_questions)]
 
-    # Save the filtered data back to a new Excel file
+    # Save the filtered data 
     df_filtered.to_excel(output_file, index=False)
 
     print(f"Processed data has been saved to '{output_file}'.")

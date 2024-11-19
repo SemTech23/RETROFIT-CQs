@@ -19,7 +19,6 @@ One challenge that may be encountered when generating multiple queries for an LL
 
 ## Contact
 - **Reham Alharbi** - [r.alharbi@liverpool.ac.uk](mailto:r.alharbi@liverpool.ac.uk)  
-- **Valentina Tamma** - [valli@liverpool.ac.uk](mailto:valli@liverpool.ac.uk)
 
 ## Acknowledgement
 This work is funded by a PhD studentship from **Taibah University, Saudi Arabia**, and the **Saudi Arabian Cultural Bureau in London (SACB)**.

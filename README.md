@@ -1,4 +1,7 @@
-![Logo](assets/retrofit-cqs-logo.png)
+<h1 align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1pnhdK95jl3iCJJnhY43iQSESD-gyvfIk" width="250" alt="AI Icon"/>
+  <br/>
+</h1>
 
 We introduce **RETROFIT-CQs**, a method for retrofitting CQs from existing ontologies by leveraging **Generative AI** and **LLMs**. CQs provide critical insights into the ontology’s scope and support tasks such as **ontology reuse**, **testing**, **requirement specification**, and **pattern definition**. Existing ontologies pose a challenge that supports **requirement elicitation**, **analysis**, and **testing**. However, the practice of not publishing CQs alongside ontologies can hinder the applicability of such tasks by other stakeholders. **RETROFIT-CQs** generate CQs from existing ontologies by utilizing the ontology’s **triples** and **LLMs** in the generation process. Adding retrofitted CQs to ontology documentation enhances it by including essential CQs often missing from published ontologies, thereby facilitating their use by third-party developers.
 
